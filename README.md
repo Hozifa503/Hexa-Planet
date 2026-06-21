@@ -35,6 +35,7 @@ This project was created to practice important game development concepts such as
 * Difficulty Scaling
 * User Interface Design
 * Boss Fight Mechanics
+<img width="1006" height="834" alt="Screenshot 2026-06-21 154325" src="https://github.com/user-attachments/assets/85c94474-044e-4aeb-949d-3bf706ba9c7c" />
 
 ---
 
@@ -63,6 +64,7 @@ This project was created to practice important game development concepts such as
 * Pause menu
 * Start menu
 * Game Over screen
+<img width="1004" height="832" alt="Screenshot 2026-06-21 154103" src="https://github.com/user-attachments/assets/c425989e-401f-4507-a610-2d4f86b68d9e" />
 
 ---
 
