@@ -1,4 +1,4 @@
-# Hexa Planet 🚀
+# Hexa Planet 
 
 ## Project Goal
 
