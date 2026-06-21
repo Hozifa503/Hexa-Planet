@@ -25,7 +25,7 @@ Hexa Planet is a simple 2D space shooter game built using Python and the Pygame 
 
 The player controls a spaceship, avoids falling stars and enemy ships, and shoots enemies to earn points. As the score increases, the game becomes more challenging by introducing faster enemies and higher difficulty levels.
 
-When the player reaches 100 points, the boss **Hexor** appears. The player must defeat Hexor to prove their skills and complete the challenge.
+When the player reaches 20 points, the boss **Hexor** appears. The player must defeat Hexor to prove their skills and complete the challenge.
 
 This project was created to practice important game development concepts such as:
 
