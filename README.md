@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-The project goal is to create a fun and challenging 2D space shooter game for children where players survive enemy waves, increase their score, reach 100 points, and fight the final boss called **Hexor**.
+The project goal is to create a fun and challenging 2D space shooter game for children where players survive enemy waves, increase their score, reach 20 points, and fight the final boss called **Hexor**.
 
 ---
 
